@@ -37,7 +37,28 @@ def classify0(inX, dataSet, labels, k):
     sortdClassCount = sorted(classCount.iteritems(), key=operator.itemgetter(1), reverse=True)
     return sortdClassCount[0][0]
 
+def file2matrix(filename):
+    fr = open(filename)
+    arrayOfLines = fr.readlines()
+    numbersOfLines = len(arrayOfLines)
+    returnMat = zeros((numbersOfLines,3))
+    classLabelVector = []
+    index = 0
+    for line in arrayOfLines:
+        line = line.strip()
+        listFromLine = line.split("\t")
+        returnMat[index,:] = listFromLine[0:3]
+        classLabelVector.append(int(listFromLine[-1]))
+        index += 1
+    return returnMat, classLabelVector
+
 if __name__ =="__main__":
     group, labels = createDataSet()
     result = classify0([0,0],group,labels,3)
     print result
+
+    dataPath = "./data/datingTestSet2.txt"
+    data, label = file2matrix(dataPath)
+    print len(data), len(label)
+
+    
