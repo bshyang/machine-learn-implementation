@@ -89,6 +89,8 @@ def biKmeans(dataSet, k, distMeas=distEclud):
         clustAssment[numpy.nonzero(clustAssment[:, 0].A == bestCentToSplit)[0], :] = bestClustAss
     return numpy.mat(centList), clustAssment
 
+
+
 if __name__ == "__main__":
     #dataMat = loadDataSet("testSet.txt")
     #print len(dataMat)
