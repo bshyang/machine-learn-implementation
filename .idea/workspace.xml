@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e251e57-e731-4b69-8621-37f587cb7a26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/book-action/Ch03/treePlotter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book-action/Ch03/trees.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,29 +17,34 @@
     <session id="1959899440">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.33" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="7454" />
+          <entry key="py" value="8894" />
+          <entry key="pyi" value="523" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="7454" />
+          <entry key="Python" value="8894" />
+          <entry key="PythonStub" value="523" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="6" />
+          <entry key="py" value="8" />
+          <entry key="pyi" value="1" />
           <entry key="readme" value="1" />
         </counts>
       </usages-collector>
@@ -49,85 +52,25 @@
         <counts>
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="6" />
+          <entry key="Python" value="8" />
+          <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book-action/Ch02/kNN.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-end-line="1" />
-              <folding>
-                <element signature="e#25#44#0" expanded="true" />
-                <marker date="1536587292573" expanded="true" signature="419:424" ph="..." />
-                <marker date="1536587292573" expanded="true" signature="3233:3882" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book-action/Ch02/digitKnn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
-              <folding>
-                <element signature="e#25#44#0" expanded="true" />
-                <marker date="1536589623392" expanded="true" signature="97:102" ph="..." />
-                <marker date="1536589623392" expanded="true" signature="347:352" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book-action/Ch03/trees.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="118" column="19" lean-forward="true" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#20#0" expanded="true" />
-                <marker date="1536764565321" expanded="true" signature="66:71" ph="..." />
-                <marker date="1536764565321" expanded="true" signature="490:495" ph="..." />
-                <marker date="1536764565321" expanded="true" signature="864:1112" ph="..." />
-                <marker date="1536764565321" expanded="true" signature="1151:1156" ph="..." />
-                <marker date="1536764565321" expanded="true" signature="1819:1824" ph="..." />
-                <marker date="1536764565321" expanded="true" signature="2134:2139" ph="..." />
-                <marker date="1536764565321" expanded="true" signature="3358:3429" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/book-action/Ch03/treePlotter.py">
+        <entry file="file://$PROJECT_DIR$/book-action/Ch06/svmMLiA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
+            <state relative-caret-position="297">
+              <caret line="90" column="27" lean-forward="true" selection-start-line="90" selection-start-column="27" selection-end-line="90" selection-end-column="27" />
               <folding>
-                <marker date="1536765974915" expanded="true" signature="247:252" ph="..." />
+                <element signature="e#25#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book-action/readme">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -136,6 +79,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Stub" />
       </list>
     </option>
   </component>
@@ -150,20 +94,24 @@
         <option value="$PROJECT_DIR$/book-action/Ch02/digitKnn.py" />
         <option value="$PROJECT_DIR$/book-action/Ch03/trees.py" />
         <option value="$PROJECT_DIR$/book-action/Ch03/treePlotter.py" />
+        <option value="$PROJECT_DIR$/book-action/Ch03/svmMLiA.pyi" />
+        <option value="$PROJECT_DIR$/book-action/Ch06/svmMLiA.pyi" />
+        <option value="$PROJECT_DIR$/book-action/Ch06/svmMLiA.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="75" />
-    <option name="y" value="44" />
-    <option name="width" value="1281" />
-    <option name="height" value="704" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1301" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,18 +128,22 @@
               <item name="machine-learn-implementation" type="b2602c69:ProjectViewProjectNode" />
               <item name="machine-learn-implementation" type="462c0819:PsiDirectoryNode" />
               <item name="book-action" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../machinelearninginaction/Ch03/treePlotter.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/book-action/Ch06" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -205,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.treePlotter">
+  <component name="RunManager" selected="Python.svmMLiA">
     <configuration name="digitKnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="machine-learn-implementation" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,6 +192,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book-action/Ch02/kNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="svmMLiA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="machine-learn-implementation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/book-action/Ch06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book-action/Ch06/svmMLiA.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,9 +268,11 @@
       <item itemvalue="Python.digitKnn" />
       <item itemvalue="Python.trees" />
       <item itemvalue="Python.treePlotter" />
+      <item itemvalue="Python.svmMLiA" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.svmMLiA" />
         <item itemvalue="Python.treePlotter" />
         <item itemvalue="Python.trees" />
         <item itemvalue="Python.digitKnn" />
@@ -328,23 +303,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="44" width="1281" height="704" extended-state="0" />
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24609375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32874355" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32819724" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990755" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32874355" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32874355" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32819724" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32874355" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32973805" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -355,43 +330,18 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/book-action/kNN.py" />
+    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch03/treePlotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="81" selection-start-line="81" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book-action/readme">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book-action/Ch02/digitKnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
-          <folding>
-            <element signature="e#25#44#0" expanded="true" />
-            <marker date="1536589623392" expanded="true" signature="97:102" ph="..." />
-            <marker date="1536589623392" expanded="true" signature="347:352" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book-action/Ch03/trees.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="118" column="19" lean-forward="true" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-            <marker date="1536764565321" expanded="true" signature="66:71" ph="..." />
-            <marker date="1536764565321" expanded="true" signature="490:495" ph="..." />
-            <marker date="1536764565321" expanded="true" signature="864:1112" ph="..." />
-            <marker date="1536764565321" expanded="true" signature="1151:1156" ph="..." />
-            <marker date="1536764565321" expanded="true" signature="1819:1824" ph="..." />
-            <marker date="1536764565321" expanded="true" signature="2134:2139" ph="..." />
-            <marker date="1536764565321" expanded="true" signature="3358:3429" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -407,19 +357,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../machinelearninginaction/Ch03/treePlotter.py">
+    <entry file="file://$PROJECT_DIR$/book-action/Ch02/digitKnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="81" selection-start-line="81" selection-end-line="86" />
+        <state relative-caret-position="315">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/book-action/Ch03/trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="118" column="19" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book-action/readme">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/book-action/Ch03/treePlotter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
+        <state relative-caret-position="224">
+          <caret line="68" column="42" lean-forward="true" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book-action/Ch10/kMeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book-action/Ch06/svmMLiA.pyi" />
+    <entry file="file://$PROJECT_DIR$/book-action/Ch06/svmMLiA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="90" column="27" lean-forward="true" selection-start-line="90" selection-start-column="27" selection-end-line="90" selection-end-column="27" />
           <folding>
-            <marker date="1536765974915" expanded="true" signature="247:252" ph="..." />
+            <element signature="e#25#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
